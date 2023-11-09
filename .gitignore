@@ -1,0 +1,6 @@
+node_modules/
+conti_spe*
+*MAGMA_*
+*ClusterFiles/
+disorders/
+proportion_cells*
